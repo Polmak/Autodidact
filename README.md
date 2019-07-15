@@ -1,5 +1,4 @@
-  [![Build Status](https://travis-ci.org/brest-java-course-summer-2019/aliaksandr-fedasiuk.svg?branch=master)](https://travis-ci.org/brest-java-course-summer-2019/aliaksandr-fedasiuk)
-  [![Coverage Status](https://coveralls.io/repos/github/brest-java-course-summer-2019/aliaksandr-fedasiuk/badge.svg)](https://coveralls.io/github/brest-java-course-summer-2019/aliaksandr-fedasiuk)
+  [![Build Status](https://travis-ci.org/Polmak/javacore.svg?branch=master)](https://travis-ci.org/Polmak/javacore)
   
   # Human Resources Application
     
